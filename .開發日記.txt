@@ -1,0 +1,9 @@
+Init
+==========
+Download
+-java
+-node js
+-npm install vue
+
+npm create vue@latest
+- all yes
